@@ -1,0 +1,4 @@
+Model,RMSE,MAE,MAPE%
+Linear Regression,32944.08,32458.27,76.1
+Random Forest,26782.25,25368.78,60.47
+XGBoost,23657.96,22692.1,54.87
