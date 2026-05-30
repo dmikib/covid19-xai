@@ -1,4 +1,7 @@
 Model,RMSE,MAE,MAPE%
+Naive (last value),599.99,542.71,2.81
+Moving Average 7d,988.89,900.65,4.68
 Linear Regression,3821.43,3178.32,16.52
 Random Forest,1470.58,1309.05,6.87
 XGBoost,664.53,532.05,2.8
+XGBoost + Optuna,520.22,405.48,2.12
